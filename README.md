@@ -1,2 +1,2 @@
 # JavaWebDemo
-使用maven创建mvc工程
+使用maven创建java web工程
